@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="https://vandan0412.github.io"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
@@ -24,9 +23,9 @@
 
 ### About
 
-I moved from Gujarat to Ottawa in late 2025 to study computer engineering technology, and I've been steadily pointing my work toward **networking and IT infrastructure** ever since. I came in with a software background — MERN, PHP/Laravel, Shopify — and I still write code happily, but routing tables and packet captures are what actually hold my attention.
+I'm pointing my work toward **networking and IT infrastructure**. I started out on the software side — MERN, PHP/Laravel, Shopify — and I still write code happily, but routing tables and packet captures are what actually hold my attention.
 
-Right now I'm building a public lab portfolio so that when co-op applications open, there's something concrete to point at rather than a list of course codes.
+Right now I'm building out a public set of labs so that when co-op applications open, there's something concrete to point at rather than a list of course codes.
 
 - 🎓 3-year Advanced Diploma, Level 2 · Dean's Honour List (3.85 GPA)
 - 🌐 Building out **[Networking-Labs](https://github.com/Vandan0412/Networking-Labs)** — Cisco Packet Tracer labs, documented properly
@@ -73,19 +72,8 @@ VLANs · inter-VLAN routing · static &amp; dynamic routing · NAT/PAT · DMZ de
 |---|---|
 | **[Networking-Labs](https://github.com/Vandan0412/Networking-Labs)** | Cisco Packet Tracer labs covering LAN setup, client-server services, inter-subnet routing, NAT/DMZ, and IPv6 — each with topology diagrams, configuration walkthroughs, and verification output. |
 | **[E-Learning-MERN](https://github.com/Vandan0412/E-Learning-MERN)** | Full-stack learning platform built on MongoDB, Express, React, and Node, with OpenAI integration for generated course content. |
-| **[Portfolio](https://vandan0412.github.io)** | Personal site, styled after a network operations centre dashboard. |
 
 ---
-
-### Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vandan0412&show_icons=true&hide_border=true&theme=github_dark&count_private=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vandan0412&layout=compact&hide_border=true&theme=github_dark" alt="Top languages">
-</p>
-
----
-
 <p align="center">
   <i>Open to Winter 2027 co-op terms — networking, infrastructure, NOC, and systems roles.<br>
   Ottawa-based, and happy to talk about anything that moves packets.</i>
