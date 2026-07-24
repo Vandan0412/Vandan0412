@@ -43,7 +43,6 @@ Right now I'm building out a public set of labs so that when co-op applications 
 ![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-005073?style=flat-square&logo=cisco&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
-VLANs · inter-VLAN routing · static &amp; dynamic routing · NAT/PAT · DMZ design · DHCP &amp; DNS · IPv4 subnetting and IPv6 addressing · TCP/UDP socket programming
 
 **Languages**
 
